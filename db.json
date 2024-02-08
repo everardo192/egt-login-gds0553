@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "e775",
+      "fullname": "everardo",
+      "email": "everardo.gtt@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "0969",
+      "fullname": "Javier Villegas",
+      "email": "javiervillegas@gmail.com",
+      "password": "123"
+    }
+  ]
+}
